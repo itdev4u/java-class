@@ -10,7 +10,7 @@ public class FactorialTest {
         int result = 0;
 
         if(i == 1)
-            return 1;
+            result = 1;
         else
             result = i * factorial(i-1);
 

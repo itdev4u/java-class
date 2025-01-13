@@ -13,11 +13,11 @@ public class ReturnTest {
         System.out.println(result2[0]);
     }
 
-    private void add(int a, int b, int[] result) {
-        result[0] = a + b;
-    }
-
     private int add(int a, int b) {
         return a + b;
+    }
+
+    private void add(int a, int b, int[] result) {
+        result[0] = a + b;
     }
 }

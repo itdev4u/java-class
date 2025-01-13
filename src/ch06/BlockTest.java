@@ -1,14 +1,17 @@
 package ch06;
 
 public class BlockTest {
+    //클래스 초기화 블럭
     static {
         System.out.println("static { }");
     }
+    //인스턴스 초기화 블럭
     {
         System.out.println("{ }");
     }
-
-    public BlockTest() {
+    //default 생성자
+    public BlockTest()
+    {
         System.out.println("생성자");
     }
 
