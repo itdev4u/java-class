@@ -11,6 +11,9 @@ public class Point {
     Point() {
         this(0, 0);
     }
+    String getLocation() {
+        return "(" + x + ", " + y + ")";
+    }
     String getXY() {
         return "(" + x + ", " + y + ")";
     }
