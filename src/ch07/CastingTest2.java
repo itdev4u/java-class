@@ -9,5 +9,7 @@ public class CastingTest2 {
         car.drive();
         fe = (FireEngine) car;
         fe.drive();
+        car2 = fe;
+        car2.drive();
     }
 }
