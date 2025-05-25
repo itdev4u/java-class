@@ -13,7 +13,7 @@ public class ReferenceReturnEx {
     private static Data copy(Data d) {
         Data tmp = new Data();
         tmp.x = d.x;
-
+        tmp.x = 20;
         return tmp;
     }
 }
