@@ -2,7 +2,7 @@ package ch04;
 
 import java.util.Scanner;
 
-public class FlowEx8 {
+public class FlowEx08 {
     public static void main(String[] args) {
         System.out.print("주민번호를 입력하세요.(011111-1234567) > ");
         Scanner scanner = new Scanner(System.in);

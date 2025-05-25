@@ -2,7 +2,7 @@ package ch04;
 
 import java.util.Scanner;
 
-public class FlowEx4 {
+public class FlowEx04 {
     public static void main(String[] args) {
         int score = 0;
         char grade = ' ';

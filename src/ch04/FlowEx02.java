@@ -2,7 +2,7 @@ package ch04;
 
 import java.util.Scanner;
 
-public class FlowEx2 {
+public class FlowEx02 {
     public static void main(String[] args) {
         int input;
         System.out.print("숫자를 하나 입력하세요. > ");
