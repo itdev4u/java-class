@@ -1,4 +1,4 @@
-package ch12;
+package ch12.Generic;
 
 public class FruitBoxEx2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch12;
+package ch12.Generic;
 
 public class Fruit implements Eatable {
     public String toString() { return "Fruit"; }
