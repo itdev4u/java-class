@@ -1,6 +1,6 @@
 package ch12.Enum;
 
-public class EnumEx1 {
+public class EnumEx01 {
     public static void main(String[] args) {
         Direction d1 = Direction.EAST;
         Direction d2 = Direction.valueOf("WEST");

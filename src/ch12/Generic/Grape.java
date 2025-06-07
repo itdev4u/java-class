@@ -1,4 +1,4 @@
-package ch12;
+package ch12.Generic;
 
 public class Grape extends Fruit {
     @Override
