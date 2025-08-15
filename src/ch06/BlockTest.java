@@ -12,6 +12,7 @@ public class BlockTest {
     //default 생성자
     public BlockTest()
     {
+
         System.out.println("생성자");
     }
 
