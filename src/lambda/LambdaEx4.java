@@ -24,6 +24,7 @@ public class LambdaEx4 {
         map.put("2", "2");
         map.put("3", "3");
         map.put("4", "4");
+        map.put("5", "5");
 
         map.forEach((k, v) -> System.out.print("{"+k+","+v+"},"));
         System.out.println();
